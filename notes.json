@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Fish"
+    },
+    {
+      "id": 1,
+      "name": "Jellyfish"
+    },
+    {
+      "id": 2,
+      "name": "Penguin"
+    },
+    {
+      "id": 3,
+      "name": "Shark"
+    },
+    {
+      "id": 4,
+      "name": "Starfish"
+    },
+    {
+      "id": 5,
+      "name": "Stringray"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
